@@ -1,0 +1,41 @@
+﻿.first {
+	fill: #FAD091;
+}
+
+.second {
+	fill:#EF7D7D;
+}
+
+.third {
+	fill: #97C7FC;
+}
+
+.forth {
+	fill: #58DBD9;
+}
+
+.btn1 {
+	background-color: #FAD091;
+}
+
+.btn2 {
+	background-color:#EF7D7D;
+}
+
+.btn3 {
+	background-color: #97C7FC;
+}
+
+.btn4 {
+	background-color: #58DBD9;
+}
+
+h1{
+	color: #00B7FF;
+}
+
+body{
+	font-family: 'Lucida Grande',
+ 'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3',
+ Meiryo, メイリオ, sans-serif;
+}
