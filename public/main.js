@@ -1,5 +1,6 @@
 /// <reference path="../typings/jquery/jquery.d.ts" />
 /// <reference path="../typings/d3/d3.d.ts" />
+/// <reference path="./poll.js" />
 
 
 var socket = io.connect('http://tl009-dev.azurewebsites.net/');
